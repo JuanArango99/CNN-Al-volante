@@ -6,4 +6,8 @@ El fin de este proyecto es simular un entorno de manejo de vehiculos dentro del 
 
 Para desarrollar este proyecto se requiere recolectar varias imágenes dentro del videojuego y su respectiva tecla oprimida. Para esto, se toma cierta parte de la pantalla en donde está ubicado el juego con la ayuda de 'grabscreen.py', la cual es de 800x600. Además, python puede recibir las teclas oprimidas mediante 'teclas.py' y 'getkeys.py'.
 
+La fase de preparación, entrenamiento y evaluación de los datos se encuentran en el archivo .ipyb el cual se traba en Google Colaboratory.
+
+
+
 
