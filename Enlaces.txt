@@ -1,18 +1,18 @@
-Capturar pantalla con OpenCV:
+Capturar pantalla:
 https://stackoverflow.com/questions/35097837/capture-video-data-from-screen-in-python/43560140
 
-Simular presionar teclas
+Simular presionar teclas:
 https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game
 
-Datos recopilados
+Datos recopilados:
 https://drive.google.com/drive/folders/1btcX10AUtwK_eTfJNiamm-2WVZYgilVO?usp=sharing
 
-Demostración resultado
+Demostración resultado:
 https://youtu.be/n1oWMyaUfT0
 
-Video Presentación
+Video Presentación.
 https://youtu.be/r6djn1QbB7I
 
 
-Canal YouTube SENTDEX
+Canal YouTube SENTDEX:
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
