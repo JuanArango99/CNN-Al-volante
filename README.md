@@ -6,7 +6,7 @@ El fin de este proyecto es simular un entorno de manejo de vehiculos dentro del 
 
 Para desarrollar este proyecto se requiere recolectar varias imágenes dentro del videojuego y su respectiva tecla oprimida. Para esto, se toma cierta parte de la pantalla en donde está ubicado el juego con la ayuda de 'grabscreen.py', la cual es de 800x600. Además, python puede recibir las teclas oprimidas mediante 'teclas.py' y 'getkeys.py'. Finalmente en 'test_model.py' se vuelve a agarrar la sección de pantalla donde se encuentra el juego y esta pasa a ser evaluada por el modelo entrenado en el que según su desición, python oprime las teclas predichas.
 
-La fase de preparación, entrenamiento y evaluación de los datos se encuentran en el archivo .ipyb el cual se traba en Google Colaboratory. Los datos recopilados se encuentran en el siguiente enlace https://drive.google.com/drive/folders/1btcX10AUtwK_eTfJNiamm-2WVZYgilVO?usp=sharing
+La fase de preparación, entrenamiento y evaluación de los datos se encuentran en el archivo .ipyb el cual se traba en Google Colaboratory. Los datos recopilados son 120.000 y se encuentran en el siguiente enlace https://drive.google.com/drive/folders/1btcX10AUtwK_eTfJNiamm-2WVZYgilVO?usp=sharing
 
 
 
