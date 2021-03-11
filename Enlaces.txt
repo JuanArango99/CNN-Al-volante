@@ -3,3 +3,6 @@ https://stackoverflow.com/questions/35097837/capture-video-data-from-screen-in-p
 
 Simular presionar teclas
 https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game
+
+Canal YouTube SENTDEX
+https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
